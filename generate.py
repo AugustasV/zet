@@ -31,9 +31,9 @@ def index_folder(folderPath):
 		if file != 'index.html':
 			indexText += "\t\t<li>\n\t\t\t<a href='" + file + "'>" + file + "</a>\n\t\t</li>\n"
 		#Recursive call to continue indexing
-		if os.path.isdir(folderPath+'/'+file):
-			index_folder(folderPath + '/' + file)
-	indexText += indexTextEnd
+	# 	if os.path.isdir(folderPath+'/'+file):
+	# 		index_folder(folderPath + '/' + file)
+	# indexText += indexTextEnd
 	#Create or override previous index.html
 	index = open(folderPath+'/index.html', "w")
 	#Save indexed content to file
