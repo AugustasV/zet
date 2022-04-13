@@ -1,0 +1,21 @@
+name: Generate
+
+on:
+  push:
+    branches:
+      - gh-pages
+      - main
+
+jobs:
+  
+  # job 1: test go module
+  generate_index:
+    name: Generate index html file
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout code into workspace directory
+        uses: actions/checkout@v2
+
+      - name: generate index.html
+        run: python3 generate.py
