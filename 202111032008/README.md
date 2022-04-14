@@ -15,5 +15,5 @@ Override function in some serious cases.
     * Deadlines by Elegant
     * ufile.io
 
-* As pomodoro timer used to use [Pomello](https://pomelloapp.com) because it's synced with trello tasks.
+* As pomodoro timer used to use [Pomello](https://pomelloapp.com) because it's synced with Trello tasks.
 * [Workrave](https://github.com/rcaelers/workrave) is pretty good to make breaks between work, probably will try to use as Pomodoro timer as well. Have pretty good statistics, open source as well. The minus is that automatically loosing statistics per different task.
