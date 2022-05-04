@@ -1,7 +1,7 @@
 name: Generate
 
 on:
-  schedule: // At the end of every day
+  schedule:
     - cron: "0 0 * * *"
 
 jobs:
