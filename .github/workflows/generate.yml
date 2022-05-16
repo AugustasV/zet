@@ -1,7 +1,7 @@
 name: Generate
 
 on:
-  schedule: // At the end of every day
+  schedule:
     - cron: "0 0 * * *"
 
 jobs:
@@ -9,7 +9,7 @@ jobs:
   # job 1: test go module
   generate_index:
     name: Generate index html file
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
 
       - name: Checkout code into workspace directory
@@ -21,6 +21,12 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
+          git fetch
+          git add index.html
+          git stash
+          git checkout gh-pages
+          rm index.html
+          git stash pop
+          git add index.html
           git commit -m "Update index.html file"
           git push
