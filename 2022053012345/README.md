@@ -4,3 +4,4 @@
 * It could give more time for important things than refactoring
 * Brainstorming session is needed
 * Small improvements than doing from scratch
+*
