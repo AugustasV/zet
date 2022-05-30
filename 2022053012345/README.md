@@ -1,3 +1,4 @@
+## Refactoring legacy code
 * Not all the time its needed
 * old code = old bugs, new code = new bugs
 * Watching for deadlines
