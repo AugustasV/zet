@@ -18,11 +18,11 @@ jobs:
           git checkout main
           rm index.html
           python3 generate.py
+          git stash
       - name: Commit index file
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git stash
           git checkout gh-pages
           git stash pop
           git add index.html
