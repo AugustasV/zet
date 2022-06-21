@@ -1,4 +1,4 @@
-## Dopamine
+## About Dopamine
 
 * Dopamine is good for motivation, focus and satisfaction. We have to know how to control it.
 * There are things to get short term dopamine dose - chocolate, nicotine, caffeine, sex, some kind of narcotics, drugs. Quick boost of motivation, energy.
