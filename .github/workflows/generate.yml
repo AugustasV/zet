@@ -12,10 +12,8 @@ jobs:
 
       - name: Checkout code into workspace directory
         uses: actions/checkout@v2
-      - name: Commit index file
-        run: |
       - name: generate index.html
-        run:
+        run: |
           git checkout main
           rm index.html
           python3 generate.py
