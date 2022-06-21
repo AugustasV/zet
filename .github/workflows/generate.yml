@@ -15,7 +15,7 @@ jobs:
       - name: generate index.html
         run: |
           git fetch
-          git checkout origin main
+          git checkout main
           rm index.html
           python3 generate.py
       - name: Commit index file
