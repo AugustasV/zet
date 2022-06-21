@@ -1,8 +1,6 @@
 name: Generate
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+on: push
 
 jobs:
   
@@ -14,19 +12,14 @@ jobs:
 
       - name: Checkout code into workspace directory
         uses: actions/checkout@v2
-
-      - name: generate index.html
-        run: python3 generate.py
+      - name: Commit index file
+        run: |
+          rm index.html
+          python3 generate.py
       - name: Commit index file
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git fetch
-          git add index.html
-          git stash
-          git checkout gh-pages
-          rm index.html
-          git stash pop
           git add index.html
           git commit -m "Update index.html file"
-          git push
+          git push --force-with-lease origin main
