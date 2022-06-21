@@ -8,6 +8,4 @@
 
 #### Source: 
 
- [Piotr Horzycki CodeEurope presentation: Software development myths that block your career](../20220530123459/software-development-myths-that-block-your-career.pdf)
-
-[Author Social Media/slides](../20220530123459/software-development-myths-that-block-your-career.pdf)
+[Piotr Horzycki CodeEurope presentation: Software development myths that block your career](../20220530123459/software-development-myths-that-block-your-career.pdf)
