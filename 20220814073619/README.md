@@ -1,10 +1,11 @@
 # Online upgrade for man page - cheat.sh
 
 * Online - need internet, curl
-* Fast
+* Fast, cht.sh url as shortcut
 * Works via cli
 * Simple interface
 * Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands
 
 
-Source: https://github.com/chubin/cheat.sh
+Source: [https://github.com/chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+
