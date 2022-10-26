@@ -1,4 +1,4 @@
-# Key things about SRE
+# Key things about 
 * Site Reliability Engineering is making sure that systems' uptime as good as possible.
 * Things changing fast but not breaking.
 * All about automation, to make automatization of repetitive tasks.
