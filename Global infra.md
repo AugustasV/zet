@@ -1,9 +1,9 @@
 ---
 created: 2023-03-02T18:46:02+01:00
-modified: 2023-03-02T20:11:15+01:00
+modified: 2023-03-02T20:16:07+01:00
 ---
 
-# Global infra
+# Global On prem infrastructurr
 
 Cloud increase doubles
 Increase 40%
