@@ -1,6 +1,6 @@
 ---
 created: 2023-03-24T16:35:23+01:00
-modified: 2023-03-24T16:51:38+01:00
+modified: 2023-03-24T16:53:48+01:00
 ---
 
 # Beginning in contributing open source
@@ -19,3 +19,4 @@ Prepare draft proposal
 * Proper open source projects have Contributors gidelines
 * Check for first good issues tag
 * Big open source projects could accept PR, do research about it.
+Source: https://speakerdeck.com/fedepaol/first-steps-in-contributing-to-open-source
