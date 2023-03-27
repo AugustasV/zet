@@ -1,25 +1,23 @@
 name: Generate
 
-on: push
+on:
 
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
 jobs:
-  
-  # job 1: test go module
-  generate_index:
-    name: Generate index html file
-    runs-on: ubuntu-20.04
+  deploy:
+    runs-on: ubuntu-latest
     steps:
-
-      - name: Checkout code into workspace directory
-        uses: actions/checkout@v2
-      - name: Commit index file
-        run: |
-          rm index.html
-          python3 generate.py
-      - name: Commit index file
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add index.html
-          git commit -m "Update index.html file"
-          git push --force-with-lease origin main
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material mkdocs-monorepo-plugin
+      - run: mkdocs gh-deploy --force
