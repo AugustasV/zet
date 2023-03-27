@@ -1,4 +1,4 @@
-## Pulumi 
+# Pulumi 
 * It's not based on terraform.
 * Supports writing in python, go node and others.
 * Is statefull

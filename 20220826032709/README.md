@@ -1,4 +1,4 @@
-## Domain driven design/development
+# Domain driven design/development
 * Principls of practices that helps to create/develop systems
 * Important to know the domain you are working on, trust intuition and implement things.
 * Mostly used in microservices systems, distributed ones.

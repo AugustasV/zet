@@ -1,4 +1,4 @@
-## Why follow others to do labs
+# Why follow others to do labs
 * If you see no sense just following some labs with other instructor, think twice.
 * If you want to do sports, friends will show you how to do stuff, than you will
 start to understand abit, and you could do it yourself.

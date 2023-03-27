@@ -1,4 +1,4 @@
-## Refactoring legacy code
+# Refactoring legacy code
 * Not all the time its needed
 * old code = old bugs, new code = new bugs
 * Watching for deadlines
@@ -6,6 +6,6 @@
 * Brainstorming session is needed
 * Small improvements than doing from scratch
 
-#### Source: 
+### Source: 
 
 [Piotr Horzycki CodeEurope presentation: Software development myths that block your career](../20220530123459/software-development-myths-that-block-your-career.pdf)

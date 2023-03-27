@@ -1,4 +1,4 @@
-## TLD tests in terraform
+# TLD tests in terraform
 * manual, end to end, integration, contact, unit tests from big to small
 * test later development is: writing code, refactoring code, writing tests (not good, takes time)
 * TDD (test driving development) fast  development time, learning curve, increase product development

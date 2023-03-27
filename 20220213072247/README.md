@@ -1,4 +1,4 @@
-## Dependencies scanning
+# Dependencies scanning
 Dependencies check for software is very important thing to catch vulnerabilities
 as fast as possible.
 Vulnerabilities are introduced through plugins, libraries etc.

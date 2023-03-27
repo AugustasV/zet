@@ -1,4 +1,4 @@
-## Chaos Engineering
+# Chaos Engineering
 * It's discipline to aknowladge that systems fails
 * no single point of failure
 * simulating software/hardware failures

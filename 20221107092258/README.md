@@ -1,4 +1,4 @@
-## Get started Software Engineering learning resources
+# Get started Software Engineering learning resources
 As more and more people ask me for advice, sharing best resources to learn that I know.
 * Software Engineering have super broad spectrum of tech stack, positions
 * Requires being sharp - constant learning

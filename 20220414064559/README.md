@@ -1,4 +1,4 @@
-## Budget friendly cloud providers
+# Budget friendly cloud providers
 
 To test things out on cloud, it's good to know where to get best price/quality ratio. Those are situations than I want to test Kubernetes clusters with multiple nodes, load balancer.
 
