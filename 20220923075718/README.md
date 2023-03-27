@@ -1,4 +1,4 @@
-Zettelkasten
+# Zettelkasten
 ------------
 *   Best to have title shorter than 20 char.
 *   Hashtags are optional.

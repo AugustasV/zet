@@ -1,8 +1,3 @@
----
-created: 2023-03-24T16:35:23+01:00
-modified: 2023-03-24T16:53:48+01:00
----
-
 # Beginning in contributing open source
 
 Explain ideas fairly
