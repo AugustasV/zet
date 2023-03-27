@@ -1,24 +1,17 @@
-updated: 2023-03-27 21:37:21Z
+updated: 2023-03-27 21:48:31Z
 kegv:    2023-01
 
 title:   A Sample Keg
-url:     git@github.com:YOU/keg.git
-creator: git@github.com:YOU/YOU.git
+url:     git@github.com:AugustasV/zet.git
+creator: git@github.com:AugustasV/zet.git
 state:   living
 
 summary:
   👋 Hey there! The KEG community welcomes you. This is an initial
-  sample `keg` file. It uses a simplified YAML format. (If you know JSON,
-  you know this.) Go ahead and change this summary and anything else you
-  like, but keep in mind the following:
+  sample `keg` file.
   
-  * The updated line MUST be the first line
-  * Everything *but* the updated line is optional
-  * You can leave the indexes section alone (they are on by default)
-  * Change **creator** to the URL for your main keg
-  * Change the **url** to the main place to find this keg
-  * Change **state** only if you are planning something more formal
-  * Keep the **zero node** created to link to for planned content
+  * This is where I dump my knowledge as it happens, all my zettels ("slips" or notes) about almost anything and everything. 
+  * The idea is rather simple and very powerful. 
   
   If you are a `vim` user you might want to add something like the
   following to your `.vimrc`:

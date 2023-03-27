@@ -8,4 +8,4 @@ You can access all zettels via this website URL: [https://augustasv.github.io/ze
 
 March 27 - Changing to KEG formatting
 
-[https://augustasv.github.io/dex/changes.html](https://augustasv.github.io/dex/changes.html)
+[https://augustasv.github.io/zet/dex/changes.html](https://augustasv.github.io/zet/dex/changes.html)
