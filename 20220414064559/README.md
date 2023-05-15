@@ -1,12 +1,12 @@
 # Budget friendly cloud providers
 
-To test things out on cloud, it's good to know where to get best price/quality ratio. Those are situations than I want to test Kubernetes clusters with multiple nodes, load balancer.
+I was looking for budget-friendly cloud providers to test Kubernetes cluster with multiple nodes and load balancers, with best price/quality ration. After some research, find out those key players in the market right now.
 
 * Hetzner 
-I was disappointed by this cloud provider because of authentication process, I had contact support for verification, but didn't get any answer for about 20 hours. Have terraform provider.
+Affordable EU provider, GDPR-compliant, with data centers in Germany, Finland, and the USA. Verification may take time.
 
 * Vultr
-Quick registration, had to top up my account min 5 eur via debit card. I was ready to create virtual machines instantly after registration. Have their own terraform provider.
+Quick registration, low minimum top-up, and a Terraform provider for easy VM creation. Verification was done instantly.
 
 * Digital Ocean
-Pretty smooth, good support.
+Smooth experience, good support, and ideal for Kubernetes clusters and load balancers.
