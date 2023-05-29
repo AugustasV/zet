@@ -11,3 +11,4 @@ The era of digital Darwinism refers to the challenges companies face when they f
 In summary, surviving the era of digital Darwinism requires companies to be proactive, adaptable, and data-driven. By sensing emerging trends, leveraging data effectively, and embracing technologies like AI, businesses can position themselves for success in a rapidly evolving digital landscape.
 
 Source: [Talk at InfoShare](https://infoshare.pl/conference/agenda/#talk702-8)
+
