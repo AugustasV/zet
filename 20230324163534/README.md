@@ -1,4 +1,4 @@
-# Surviving the Era of Digital Darwinism
+# 🗣️ Surviving the Era of Digital Darwinism
 
 The era of digital Darwinism refers to the challenges companies face when they fail to adapt their business strategies to the changing digital landscape. Here are some key considerations for thriving in this era:
 
