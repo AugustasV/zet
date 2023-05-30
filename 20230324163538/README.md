@@ -1,4 +1,4 @@
-# Ensuring IoT Application Edge Resilience with Open Source Tools
+# :speaking_head: Ensuring IoT Application Edge Resilience with Open Source Tools
 
 To ensure IoT application edge resilience, consider the following:
 
