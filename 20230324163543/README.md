@@ -2,7 +2,7 @@
 
 I recently completed a challenging lab that tested my ability to manage a cloud environment on Google Cloud Platform (GCP). The lab required me to perform several tasks without step-by-step guidance. Due to time constraints, I used CLI commands to speed up the process. Here's a summary of what I accomplished:
 
-1. **Creating an Instance:** I successfully created an instance using an instance template provided by GCP.
+1. **Creating an Instance:** I successfully created an instance using an instance template.
 
 2. **Setting up a 3-Node Kubernetes Cluster:** I created a Kubernetes cluster with three nodes and deployed a simple service on it.
 
@@ -20,4 +20,4 @@ To achieve this, I completed the following steps:
 
 Overall, this lab challenged me to demonstrate my ability to create and manage cloud resources on GCP. I successfully completed the tasks by using CLI commands and configuring the necessary components.
 
-Source: [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/quests/120)
+Source: [Create and Manage Cloud Resources: Challenge Lab](https://www.cloudskillsboost.google/quests/120)
