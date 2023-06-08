@@ -14,7 +14,7 @@
 20220513101212	2023-03-27 22:52:49Z	Raspberry Pi OS - DietPi
 20220530123459	2023-03-27 22:52:49Z	Refactoring legacy code
 20220626113629	2023-03-27 22:52:49Z	Service mesh 
-20220727085343	2023-05-29 11:35:21Z	Linux reverse-i-search function unable to forward search
+20220727085343	2023-06-08 14:42:26Z	Linux reverse-i-search function unable to forward search
 20220814073619	2023-03-27 22:52:49Z	Upgrade for man page - cheat.sh
 20220821062737	2023-03-27 22:52:49Z	Distroless container images
 20220826032709	2023-03-27 22:52:49Z	Domain driven design/development
@@ -43,3 +43,4 @@
 20230324163542	2023-05-31 13:16:45Z	🗣️ Fundamentals of GPT models
 20230324163543	2023-06-08 12:49:59Z	Creating and Managing Cloud Resources Challenge on GCP
 20230324163544	2023-06-08 12:52:41Z	🗣️ Where does platform start and end? 
+20230324163546	2023-06-08 15:18:59Z	Exposing Services in Kubernetes
