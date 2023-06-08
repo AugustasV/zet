@@ -19,5 +19,4 @@ To achieve this, I completed the following steps:
 - **Target Proxy:** Finally, I created a target proxy to handle incoming traffic and distribute it to the instances in the target pool.
 
 Overall, this lab challenged me to demonstrate my ability to create and manage cloud resources on GCP. I successfully completed the tasks by using CLI commands and configuring the necessary components.
-
 Source: [Create and Manage Cloud Resources: Challenge Lab](https://www.cloudskillsboost.google/quests/120)
