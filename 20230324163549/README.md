@@ -1,4 +1,4 @@
-# FinOps engineer
+# 🗣️ FinOps engineer
 
 * A lot of money could be saved
 * Be the person who initiate changes
