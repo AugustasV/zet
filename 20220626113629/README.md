@@ -1,10 +1,5 @@
-# Service mesh 
+# Service mesh
+Istio is an open-source service mesh platform that simplifies microservices management. Acting as a virtual network, it handles communication between services and provides traffic management, security, and observability features. Istio uses sidecar proxies to control traffic routing, load balancing, and enforce security policies. It enhances resilience, security, and visibility in microservices architectures, freeing developers and operators from networking complexities. Learn more
 
-* There is service mesh layer, every service send request to service mesh layer, and service mesh redirects where it's needed.
-* One of key things is telemetry. 
-* Traffic routes, rerouting requests and how long it took to reach destination.
-* Istio add Proxy container (sidecar). Proxy is needed to run service mesh logic in every pod (microservice).
-* Those proxies in Istio are called "Data Plane".
-* There should be no changes for containers only on service plane level.
-* It gives service additional metrics about throttling, requests. Good to know kubernetes metrics.
-* To monitor services from one container to another
+
+Source: [https://istio.io/](https://istio.io/)

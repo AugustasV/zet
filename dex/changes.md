@@ -1,3 +1,4 @@
+* 2023-06-12 07:26:15Z [Service mesh](../20220626113629)
 * 2023-06-08 15:18:59Z [Exposing Services in Kubernetes](../20230324163546)
 * 2023-06-08 14:42:26Z [Linux reverse-i-search function unable to forward search](../20220727085343)
 * 2023-06-08 12:52:41Z [🗣️ Where does platform start and end? ](../20230324163544)
@@ -18,7 +19,6 @@
 * 2023-04-12 21:28:51Z [Falco security tool](../20230324163526)
 * 2023-03-27 22:52:49Z [Hype-driven development](../202205301010)
 * 2023-03-27 22:52:49Z [Pillars of AWS Well-architected](../20230209085024)
-* 2023-03-27 22:52:49Z [Service mesh ](../20220626113629)
 * 2023-03-27 22:52:49Z [About SRE](../20221025064541)
 * 2023-03-27 22:52:49Z [Creating KEG system for notes taking](../20230324163524)
 * 2023-03-27 22:52:49Z [Refactoring legacy code](../20220530123459)
