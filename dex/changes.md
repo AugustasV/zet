@@ -1,5 +1,5 @@
+* 2023-06-18 20:55:26Z [Dependencies scanning](../20220213072247)
 * 2023-06-18 20:53:56Z [Blue-green deployment](../20230324163554)
-* 2023-06-18 20:48:54Z [Dependencies scanning](../20220213072247)
 * 2023-06-16 12:34:18Z [Traceability, auditability, and security](../20230324163553)
 * 2023-06-16 11:58:01Z [Shift-left](../20230324163552)
 * 2023-06-12 14:40:41Z [How to manage Complexity and cognitive load](../20230324163551)
