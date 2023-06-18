@@ -1,4 +1,4 @@
-* 2023-06-18 20:52:25Z [Blue-green deployment](../20230324163554)
+* 2023-06-18 20:53:56Z [Blue-green deployment](../20230324163554)
 * 2023-06-18 20:48:54Z [Dependencies scanning](../20220213072247)
 * 2023-06-16 12:34:18Z [Traceability, auditability, and security](../20230324163553)
 * 2023-06-16 11:58:01Z [Shift-left](../20230324163552)
