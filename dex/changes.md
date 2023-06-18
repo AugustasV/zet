@@ -1,7 +1,7 @@
+* 2023-06-18 21:34:36Z [Blue-green deployment](../20230324163554)
 * 2023-06-18 21:06:41Z [Shift-left](../20230324163552)
 * 2023-06-18 21:06:00Z [Traceability, auditability, and security](../20230324163553)
 * 2023-06-18 20:55:26Z [Dependencies scanning](../20220213072247)
-* 2023-06-18 20:53:56Z [Blue-green deployment](../20230324163554)
 * 2023-06-12 14:40:41Z [How to manage Complexity and cognitive load](../20230324163551)
 * 2023-06-12 14:08:18Z [Lean coffee discussion](../20230324163550)
 * 2023-06-12 12:09:27Z [🗣️ FinOps engineer](../20230324163549)
