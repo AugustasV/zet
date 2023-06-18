@@ -10,4 +10,4 @@ When it comes to compliance in enterprises and companies, three fundamental prin
 
 In addition, security is crucial to ensure that individuals cannot perform unauthorized actions, including deleting evidence.
 
-Source: (Traceability, auditability and security)[https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/10-examine-considerations-for-choosing-release-management-tools]
+Source: [Traceability, auditability and security](https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/10-examine-considerations-for-choosing-release-management-tools]
