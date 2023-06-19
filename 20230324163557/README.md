@@ -14,4 +14,4 @@ Here is the provided text converted into markdown format:
 - The further up your serving stack you go, the more distinct problems you catch in a single rule. However, ensure that you can sufficiently distinguish what is going on.
 - If you want an on-call rotation, it's imperative to have a system for dealing with things that need a timely response but aren't imminently critical.
 
-Source: (Reduce meaningless and non-actionable alerts)[https://learn.microsoft.com/en-us/training/modules/manage-alerts-blameless-retrospectives-just-culture/7-reduce-meaningless-non-actionable-alerts]
+Source: [Reduce meaningless and non-actionable alerts](https://learn.microsoft.com/en-us/training/modules/manage-alerts-blameless-retrospectives-just-culture/7-reduce-meaningless-non-actionable-alerts)
