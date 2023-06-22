@@ -1,4 +1,4 @@
-# Istio deployment approach, virtual services
+# Service Mesh Workshop
 
 Istio, a service mesh solution, has made a decision not to use an operator for managing its deployments due to potential security threats that could arise from injections into deployments. Istio relies on mutual TLS (mTLS) for secure communication between its proxies. Within Istio, virtual services serve as virtual representations of services, allowing fine-grained control over traffic routing and other network-related features. To ensure smoother integration, it is important to avoid overcomplication and focus on maintaining simplicity and small test scopes.
 
