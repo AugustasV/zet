@@ -1,0 +1,44 @@
+# devcontainer.yml
+name: Go with Keg
+build:
+  dockerfile: Dockerfile
+extensions:
+  - golang.go
+
+# Use the official Go image as the base
+# and install keg using Go's package manager
+dockerfile: |
+  FROM golang:1.16
+
+  # Install git and other dependencies
+  RUN apt-get update && apt-get install -y git openssh-client
+
+  # Install keg
+  RUN go get -u github.com/rwxrob/keg
+
+  # Set the default working directory
+  WORKDIR /workspace
+
+  # Add keg to the PATH
+  ENV PATH="/go/bin:${PATH}"
+
+  # Copy the repository into the container
+  COPY . /workspace
+
+  # Configure Git
+  RUN git config --global user.email "$GIT_USER_EMAIL" && \
+      git config --global user.name "$GIT_USER_NAME" && \
+      git config --global credential.helper store
+
+  # Add SSH keys to the agent
+  RUN eval "$(ssh-agent -s)" && \
+      ssh-add  ~/.ssh/id_ed25519
+
+containerEnv:
+  - name: GIT_USER_EMAIL
+    value: "reg1nt1z@gmail.com"
+  - name: GIT_USER_NAME
+    value: "AugustasV"
+
+  # Set the default command or entrypoint
+  # CMD ["/bin/bash"]
