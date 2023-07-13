@@ -8,37 +8,34 @@ extensions:
 # Use the official Go image as the base
 # and install keg using Go's package manager
 dockerfile: |
-  FROM golang:1.16
-
-  # Install git and other dependencies
-  RUN apt-get update && apt-get install -y git openssh-client
+  FROM alpine:3.16
+  
+  RUN apk add --no-cache git go=1.18.7-r0 vim bash
+  
+  ENV GOROOT /usr/lib/go
+  ENV GOPATH /go
+  ENV PATH /go/bin:$PATH
+  # ENV KEG_CURRENT=zet keg "$@"
 
   # Install keg
-  RUN go get -u github.com/rwxrob/keg
+  RUN go install github.com/rwxrob/keg/cmd/keg@latest
 
   # Set the default working directory
-  WORKDIR /workspace
-
-  # Add keg to the PATH
-  ENV PATH="/go/bin:${PATH}"
-
-  # Copy the repository into the container
-  COPY . /workspace
+  WORKDIR /zet
 
   # Configure Git
   RUN git config --global user.email "$GIT_USER_EMAIL" && \
       git config --global user.name "$GIT_USER_NAME" && \
       git config --global credential.helper store
 
-  # Add SSH keys to the agent
-  RUN eval "$(ssh-agent -s)" && \
-      ssh-add  ~/.ssh/id_ed25519
+  # Copy the repository into the container
+  COPY . /zet
+  CMD ["sh"]
 
 containerEnv:
   - name: GIT_USER_EMAIL
-    value: "reg1nt1z@gmail.com"
+    value: "${localEnv:GIT_USER_EMAIL}"
   - name: GIT_USER_NAME
-    value: "AugustasV"
+    value: "${localEnv:GIT_USER_NAME}"
 
-  # Set the default command or entrypoint
-  # CMD ["/bin/bash"]
+command: sleep infinity
