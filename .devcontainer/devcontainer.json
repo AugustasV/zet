@@ -1,0 +1,20 @@
+{
+   "name": "Go with Keg",
+   "build": {
+      "dockerfile": "Dockerfile"
+   },
+   "extensions": [
+      "golang.go"
+   ],
+   "containerEnv": [
+      {
+         "name": "GIT_USER_EMAIL",
+         "value": "${localEnv:GIT_USER_EMAIL}"
+      },
+      {
+         "name": "GIT_USER_NAME",
+         "value": "${localEnv:GIT_USER_NAME}"
+      }
+   ],
+   "command": "sleep infinity"
+}
