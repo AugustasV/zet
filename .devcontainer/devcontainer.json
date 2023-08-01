@@ -11,6 +11,15 @@
          ]   
       }
    },
+   "settings": {
+     "terminal.integrated.profiles.linux": {
+       "bash": {
+         "path": "/bin/ash",
+         "icon": "terminal-bash"
+       }
+     },
+     "terminal.integrated.defaultProfile.linux": "ash"
+  },	
    "containerEnv": {
      "GIT_USER_EMAIL":      "${localEnv:GIT_USER_EMAIL}",
      "GIT_USER_NAME":       "${localEnv:GIT_USER_NAME}"
