@@ -5,6 +5,7 @@
   ENV GOROOT /usr/lib/go
   ENV GOPATH /go
   ENV PATH /go/bin:$PATH
+  ENV EDITOR vim
   # ENV KEG_CURRENT=zet keg "$@"
 
   # Install keg
