@@ -1,10 +1,10 @@
-FROM alpine:3.16
+FROM golang:1.18.7-alpine3.16
  
-RUN apk add --no-cache git go=1.18.7-r0 vim bash build-base gcompat
+RUN apk add --no-cache git vim bash build-base gcompat
   
-ENV GOROOT /usr/lib/go
-ENV GOPATH /go
-ENV PATH /go/bin:$PATH
+# ENV GOROOT /usr/lib/go
+# ENV GOPATH /go
+# ENV PATH /go/bin:$PATH
 ENV EDITOR vim
 # ENV KEG_CURRENT=zet keg "$@"
 # Install keg
