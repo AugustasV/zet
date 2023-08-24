@@ -1,4 +1,4 @@
-# Man vs Machine - Exploring the Benefits of a Cloud-Native Approach
+# 🗣️ Man vs Machine - Exploring the Benefits of a Cloud-Native Approach
 
 **Design Rules:**
 - **Scalability:** The application is designed to scale infinitely.
