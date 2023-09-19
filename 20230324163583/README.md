@@ -1,19 +1,19 @@
-# Different types of VPN's in Azure
+# Different Types of VPNs in Azure
 
-** Point to Site (P2S) VPN
-* Encrypted between on premise and cloud
-* Travels over the public internet (encrypted)
-* P2S as simple as installing software on your computer
-** Site to Site (S2S) VPN
-* Travels over the public internet (encrypted)
+### Point-to-Site (P2S) VPN
+* Encrypted communication between on-premises and the cloud.
+* Traffic travels over the public internet but is encrypted.
+* Setting up P2S is as simple as installing software on your computer.
 
-** ExpressRoute
+### Site-to-Site (S2S) VPN
+* Traffic travels over the public internet and is encrypted.
 
-* Private connection to Azure
-* Most expensive, doesn't travel through public internet
-* Extremely fast
-* It's only works with specific communications providers
-* With Premium Add-On it could be connected between different regions
-* Support speeds from 50 Mbps to 10 Gbps, but its 5k per month.
+### ExpressRoute
+* Provides a private connection to Azure.
+* Considered the most expensive option but doesn't traverse the public internet.
+* Offers extremely fast connectivity.
+* Only works with specific communication providers.
+* With the Premium Add-On, it can be connected between different regions.
+* Supports speeds ranging from 50 Mbps to 10 Gbps, but costs approximately $5,000 per month.
 
-Source: https://www.udemy.com/course/70533-azure/
+Source: [Udemy Course - 70533 Azure](https://www.udemy.com/course/70533-azure/)
