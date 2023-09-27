@@ -1,3 +1,4 @@
+* 2023-09-27 12:04:10Z [Open-source terraform - OpenTofu](../20230324163585)
 * 2023-09-19 11:58:30Z [Different Types of VPNs in Azure](../20230324163583)
 * 2023-08-31 13:17:20Z [🗣️ Istio's deployment approach](../20230324163582)
 * 2023-08-31 13:12:53Z [Hands-on Crossplane workshop overview](../20230324163581)
