@@ -1,4 +1,4 @@
-* 2023-10-10 12:46:33Z [Free ARM instances on GCP](../20230324163587)
+* 2023-10-10 12:50:59Z [Free ARM instances on GCP](../20230324163587)
 * 2023-10-04 16:47:37Z [Service mesh](../20220626113629)
 * 2023-10-04 16:40:48Z [Linux reverse-i-search function unable to forward search](../20220727085343)
 * 2023-10-04 09:55:09Z [Monitoring Grafana and InfluxDB lab](../20230324163586)
