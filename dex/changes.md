@@ -1,4 +1,4 @@
-* 2023-10-10 19:18:20Z [🗣️ Sow Vinted uses GitOps to deploy thousands of pods to Kubernetes](../20230324163588)
+* 2023-10-10 19:48:46Z [🗣️ How Vinted uses GitOps to deploy thousands of pods to Kubernetes](../20230324163588)
 * 2023-10-10 12:50:59Z [Free ARM instances on GCP](../20230324163587)
 * 2023-10-04 16:47:37Z [Service mesh](../20220626113629)
 * 2023-10-04 16:40:48Z [Linux reverse-i-search function unable to forward search](../20220727085343)
