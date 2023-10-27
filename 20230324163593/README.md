@@ -7,4 +7,4 @@
 Q: How long does it takes to impelemnt Dynatrace
 A: With One Agent operator its fast
 
-Source: (Make your data actionable)[https://dev.infoshare.pl/agenda/#talk57-3]
+Source: [Make your data actionable](https://dev.infoshare.pl/agenda/#talk57-3)
