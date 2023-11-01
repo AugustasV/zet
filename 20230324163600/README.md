@@ -1,7 +1,7 @@
 # Pomodoro timer: Alternate Between Long and Short Study Sessions
 
 * Each hard session is reduced by 10 minutes as the study session progresses.
-* Frequent breaks ensure optimization of productivity and refreshment throughout.i
+* Frequent breaks ensure optimization of productivity and refreshment throughout.
 
 ## Hard Session (90 minutes)
 
