@@ -1,9 +1,9 @@
 # Pomodoro timer: Alternate Between Long and Short Study Sessions
 
-## Hard Session (90 minutes)
-
 * Each hard session is reduced by 10 minutes as the study session progresses.
-* Frequent breaks ensure optimization of productivity and refreshment throughout.
+* Frequent breaks ensure optimization of productivity and refreshment throughout.i
+
+## Hard Session (90 minutes)
 
 - **Purpose:** Start your study day with a challenging, complex task that requires deep focus and cognitive energy.
 - **Details:** Dedicate 90 minutes to this task. During this period, concentrate your full attention on solving the problem or completing the project. Avoid distractions and interruptions to maintain your flow.
