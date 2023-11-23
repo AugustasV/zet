@@ -10,6 +10,6 @@
 
 - **Serverless Landscape:** blogs, different deployment patterns and infrastructure provisioning using tools like Terraform or Pulumi.
 
-Source: (https://www.twitch.tv/het_tanis)[https://www.twitch.tv/het_tanis]
+Source: [Professioanl Linux User's Group twitch stream](https://www.twitch.tv/het_tanis)
 
 
