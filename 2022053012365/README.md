@@ -1,17 +1,15 @@
-# Chaos Engineering idea
-* It's discipline to aknowladge that systems fails
-* no single point of failure
-* simulating software/hardware failures
-* latency monkey for testing
-* its a loop, fail fast, fail often and learn from it
-* We should know what achieve of experiment is, it I could unroll changes and if its touching business
-* Keep in mind the monitoring
-* Those things used in chaos engineer principles are pretty similar how to approach complex systems.
- * As systems becoming more complex, by chaos engineer identifying risks
+# Chaos Engineering Idea
 
+- **Expect System Failures:**
+- **Avoid Single Points of Failure:**
+- **Simulate Failures:**
+- **Introduce Latency:**
+- **Continuous Learning Loop:**
+- **Define Experiment Goals:**
+- **Monitor System Behavior:**
+- **Simple Approach to Complexity:**
+- **Identify Risks:**
 
-
----
-
-https://principlesofchaos.org
-https://www.gremlin.com/chaos-monkey
+## Sources:
+- [Principles of Chaos Engineering](https://principlesofchaos.org)
+- [Chaos Monkey by Gremlin](https://www.gremlin.com/chaos-monkey)
