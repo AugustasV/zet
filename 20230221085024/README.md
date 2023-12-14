@@ -1,4 +1,4 @@
-# Diagrams and Schemes
+# 🗣️Diagrams and Schemes
 
 Diagrams are invaluable tools for simplifying complex concepts and effectively communicating ideas. They should be presented using simple, understandable language.
 
