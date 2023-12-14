@@ -4,6 +4,10 @@ reverse-i-search function in bash is one of my favorite. I could easily search m
 
 In many terminals, is used by default to send the pause transmission code (XOF).
 
-To get that functionality back change the binding or just disable XOF, by adding that command into ~/.basrc file
+To get that functionality back change the binding or just disable XOF, by adding that command into ~/.basrc file 
+
 `stty -ixon`
+
 after `source ~/.basrc` forward and reverse search is back.
+
+Source: [Linux reverse-i-search function unable to forward search](https://stackoverflow.com/questions/17760474/reverse-intelligent-search-reverse-i-search-how-to-get-previous-result?rq=1)
