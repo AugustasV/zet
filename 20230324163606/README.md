@@ -9,4 +9,5 @@
    - Replace `/dev/mapper/development--vg-root` with your actual LVM partition name
 
 4. **Verify the New Size**:
+
 Source: [Resize ubuntu disk in virtualbux](https://devlog.rolandow.com/2021/10/resize-ubuntu-disk-in-virtualbox)
