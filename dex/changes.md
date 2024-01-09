@@ -1,3 +1,4 @@
+* 2024-01-09 13:42:43Z [Six Sigma Overview](../20230324163609)
 * 2023-12-14 13:18:02Z [Testing in Terraform](../20221024101)
 * 2023-12-14 13:09:51Z [Chaos Engineering Idea](../2022053012365)
 * 2023-12-14 13:07:21Z [Main Chaos Engineering Tools](../20230324163530)
