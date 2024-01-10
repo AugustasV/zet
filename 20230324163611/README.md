@@ -18,4 +18,4 @@
 - **AI-Generated Summary in Merge Requests**
   - Automatic AI-driven summaries for quick change overviews.
 
-  Source: (Security & Compliance Hands-on Workshop by Gitlab)[https://page.gitlab.com/Workshop_January09_SecurityComplianceWS_Virtual.html]
+  Source: [Security & Compliance Hands-on Workshop by Gitlab](https://page.gitlab.com/Workshop_January09_SecurityComplianceWS_Virtual.html)
