@@ -18,3 +18,5 @@ Sources:
 * [Exercism tasks for practice](https://exercism.org/)
 * [Killercoda Interactive environments](https://killercoda.com)
 * [Filtered Learn to Code Resources](https://github.com/CodingGarden/learn-to-code-resources)
+* [Courses, challanges, playground specific for Infrastructure/Cloud related things](https://labs.iximiuz.com)
+* [DevOps exercises, concepts](https://github.com/bregman-arie/devops-exercises)
