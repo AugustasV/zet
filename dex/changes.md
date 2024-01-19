@@ -1,3 +1,4 @@
+* 2024-01-19 21:50:06Z [90DaysOfDevOps - Day 1](../20230324163613)
 * 2024-01-10 11:07:37Z [Get started Software Engineering learning resources](../20221107092258)
 * 2024-01-10 10:10:30Z [GitLab for Compliance and Best Practices](../20230324163611)
 * 2024-01-09 13:50:17Z [Selecting Six Sigma methods for project improvements](../20230324163610)
