@@ -1,3 +1,4 @@
+* 2024-01-21 22:53:26Z [90DaysOfDevOps - Day3 lifecycle/sec](../20230324163615)
 * 2024-01-20 22:00:27Z [90DaysOfDevOps day 2 - DevSecOps](../20230324163614)
 * 2024-01-19 22:25:24Z [Get started Software Engineering learning resources](../20221107092258)
 * 2024-01-19 21:50:06Z [90DaysOfDevOps - Day 1](../20230324163613)
