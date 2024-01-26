@@ -1,3 +1,4 @@
+* 2024-01-26 22:05:22Z [90DaysOfDevOps Day 6 - OWASP](../20230324163618)
 * 2024-01-25 21:41:54Z [90DaysOfDevOps Day 5 release cycle, OSS sec](../20230324163617)
 * 2024-01-22 23:21:25Z [90DaysOfDevOps Day 4 About DevOps Engineer](../20230324163616)
 * 2024-01-21 22:53:26Z [90DaysOfDevOps - Day3 lifecycle/sec](../20230324163615)
