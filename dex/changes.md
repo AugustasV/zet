@@ -1,3 +1,5 @@
+* 2024-01-30 13:40:19Z [90DaysOfDevOps Day 7 Programming languages & QA](../20230324163619)
+* 2024-01-29 21:25:29Z [Linux reverse-i-search function unable to forward search](../20220727085343)
 * 2024-01-26 22:05:22Z [90DaysOfDevOps Day 6 - OWASP](../20230324163618)
 * 2024-01-25 21:41:54Z [90DaysOfDevOps Day 5 release cycle, OSS sec](../20230324163617)
 * 2024-01-22 23:21:25Z [90DaysOfDevOps Day 4 About DevOps Engineer](../20230324163616)
@@ -11,7 +13,6 @@
 * 2023-12-14 13:18:02Z [Testing in Terraform](../20221024101)
 * 2023-12-14 13:09:51Z [Chaos Engineering Idea](../2022053012365)
 * 2023-12-14 13:07:21Z [Main Chaos Engineering Tools](../20230324163530)
-* 2023-12-14 12:55:06Z [Linux reverse-i-search function unable to forward search](../20220727085343)
 * 2023-12-14 12:41:56Z [🗣️Diagrams and Schemes](../20230221085024)
 * 2023-12-14 12:36:10Z [Resize Virtualbox vm disk size](../20230324163606)
 * 2023-11-23 21:56:26Z [Migration to Cloud](../20230324163602)

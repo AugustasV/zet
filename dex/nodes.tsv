@@ -14,7 +14,7 @@
 20220513101212	2023-03-27 22:52:49Z	Raspberry Pi OS - DietPi
 20220530123459	2023-03-27 22:52:49Z	Refactoring legacy code
 20220626113629	2023-10-04 16:47:37Z	Service mesh
-20220727085343	2023-12-14 12:55:06Z	Linux reverse-i-search function unable to forward search
+20220727085343	2024-01-29 21:25:29Z	Linux reverse-i-search function unable to forward search
 20220814073619	2023-03-27 22:52:49Z	Upgrade for man page - cheat.sh
 20220821062737	2023-03-27 22:52:49Z	Distroless container images
 20220826032709	2023-03-27 22:52:49Z	Domain driven design/development
@@ -91,3 +91,4 @@
 20230324163616	2024-01-22 23:21:25Z	90DaysOfDevOps Day 4 About DevOps Engineer
 20230324163617	2024-01-25 21:41:54Z	90DaysOfDevOps Day 5 release cycle, OSS sec
 20230324163618	2024-01-26 22:05:22Z	90DaysOfDevOps Day 6 - OWASP
+20230324163619	2024-01-30 13:40:19Z	90DaysOfDevOps Day 7 Programming languages & QA
