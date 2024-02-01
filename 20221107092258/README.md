@@ -21,3 +21,4 @@ Sources:
 * [Courses, challanges, playground specific for Infrastructure/Cloud related things](https://labs.iximiuz.com)
 * [DevOps exercises, concepts](https://github.com/bregman-arie/devops-exercises)
 * [A guide into Cloud computing role by GPS](https://learntocloud.guide)
+* [SadServers - Ready VM's to solve different Linux challanges](https://sadservers.com)
