@@ -1,3 +1,4 @@
+* 2024-02-05 19:26:42Z [90DaysOfDevOps - Day 8 SAST/ Infrastructure](../20230324163624)
 * 2024-02-01 12:27:25Z [Get started Software Engineering learning resources](../20221107092258)
 * 2024-01-30 13:40:19Z [90DaysOfDevOps Day 7 Programming languages & QA](../20230324163619)
 * 2024-01-29 21:25:29Z [Linux reverse-i-search function unable to forward search](../20220727085343)
