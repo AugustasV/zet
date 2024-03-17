@@ -6,5 +6,6 @@ Diagrams are invaluable tools for simplifying complex concepts and effectively c
 * Excalidraw is a user-friendly tool for creating simple and intuitive visual representations.
 * Diagrams for Understanding Architecture :Diagrams are particularly useful for comprehending the architecture of various systems and processes. They provide a clear overview of how components are structured and interconnected.
 * PlantUML is a versatile tool, serving as an excellent alternative for generating C4 diagrams. C4 diagrams are high-level architectural diagrams, and PlantUML allows for their creation in a text-based format.
-
+* Mermaid has good workflow and many integrations even to confluence, great ecosystem
+* Mermaid flow online editor good place to try
 Source: [What eyes don't see, the ears will not hear - how to use diagrams to make your work easier](https://www.kuznia-kodu.pl/presentation/diagrams)
