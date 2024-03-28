@@ -1,3 +1,4 @@
+* 2024-03-28 18:36:49Z [AWS Bedrock](../20230324163628)
 * 2024-03-17 11:03:42Z [🗣️Diagrams and Schemes](../20230221085024)
 * 2024-03-17 10:59:48Z [🗣️ Eight System Traps: how systems (and organizations) faili](../20230324163627)
 * 2024-03-12 11:52:08Z [Kubernetes resources quotas](../20230324163626)
