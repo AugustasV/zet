@@ -5,4 +5,4 @@ Somehow often I have issue with my soundcore Space Q45 headphones that if I conn
 
 after some search I found out fix that worked for me - reseting bluetooth Kernel module.
 
-`sudo modprobe -r btusb && sleep 20 && sudo modprobe btusb`
+`sudo modprobe -r btusb && sleep 30 && sudo modprobe btusb`
