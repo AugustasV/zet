@@ -23,5 +23,5 @@ Only ephemeral and external secrets truly keep sensitive data out of state files
 ---
 
 **Sources:**  
-- Terraform docs: [Sensitive Data in State](https://developer.hashicorp.com/terraform/docs/state/sensitive-data)  
-- [Ephemeral resources](https://developer.hashicorp.com/terraform/language/expressions/ephemeral)
+- Terraform docs: [Sensitive Data in State](https://developer.hashicorp.com/terraform/language/state/sensitive-data)  
+- [Ephemeral resources](https://developer.hashicorp.com/terraform/language/resources/ephemeral)
